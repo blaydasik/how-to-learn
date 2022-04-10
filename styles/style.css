@@ -11,7 +11,7 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
   border-color: red;
   border-style: solid;
-  overflow-x: hidden; /*дабы избежать прокручивания*/
+  overflow-x: hidden; /*дабы избежать горизонтального прокручивания*/
 }
 
 /*Стили вспомогательных блоков*/
