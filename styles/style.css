@@ -19,7 +19,7 @@
   min-height: 600px;
   max-height: 756px;
   /* выше установили ограничения для секции */
-  display: flex;   
+  display: flex;  
   position: relative;
   background-color: #f2f2f2;
   overflow: hidden;
@@ -43,7 +43,7 @@
   width: 388px;
   left: 64px;
   bottom: 30px;
-  line-height: 25px; 
+  line-height: 25px;
   font-size: 18px;
   font-weight: normal;
   color: #000000;
@@ -64,7 +64,7 @@
   right: 0;
   bottom: 0;
   width: 765px;
-  height: 608px;  
+  height: 608px;
   z-index: 1;
   margin: 0;
 	padding: 0;
@@ -85,7 +85,7 @@
 /*logo*/
 .logo {
   width: 228px;
-  height: 32px;  
+  height: 32px;
   margin: 0;
   padding: 0;
 }
