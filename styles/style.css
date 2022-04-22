@@ -30,7 +30,7 @@
 }
 
 .header__title{
-  margin-left: 64px;
+  margin: 0 0 0 64px;
   padding: 0;
   line-height: 96px;
   font-size: 102px;
@@ -269,7 +269,7 @@
 .feynman{
   margin: 0;
   padding: 0;
-  height: 890px;
+  min-height: 890px;
   display: flex;
   position: relative;
   flex-direction: column;
@@ -345,7 +345,7 @@
   z-index: -1;
   background-image: url(../images/kaufman-triangle.svg);
   background-repeat: no-repeat;
-  background-size: contain;  
+  background-size: cover;  
 }
 
 /*footer*/
