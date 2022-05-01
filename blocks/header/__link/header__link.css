@@ -4,8 +4,7 @@
   margin: 0;
   padding: 0;
   opacity: 1;
-  transition: opacity .7s ease;
-  transition: color .7s ease;
+  transition: opacity, color .7s ease;
 }
 
 .header__link:hover{

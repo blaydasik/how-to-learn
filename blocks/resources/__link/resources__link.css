@@ -7,6 +7,6 @@
   transition: opacity .7s ease;
 }
 
-.resources__link:hover{
+.resources__link:hover {
   opacity: .5;
 }

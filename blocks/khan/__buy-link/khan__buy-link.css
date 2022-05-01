@@ -6,12 +6,12 @@
   font-weight: normal;
   color: #2f80ed;
   text-decoration: none;
+  align-self: flex-start;
   opacity: 1;
-  transition: opacity .7s ease;
-  transition: color .7s ease;
+  transition: opacity, color .7s ease;
 }
 
-.khan__buy-link:hover{
+.khan__buy-link:hover {
   color: red;
   opacity: .5;
 }
